@@ -23,7 +23,7 @@ const DOM_Elements = {
 }
 
 const createRacer = (position, first, last, nationality, sponsor, points) => {
-    const html = `<table class="table table-striped">
+    const html = `<table class="table table-dark table-striped">
     
         <thead>
             <tr>
