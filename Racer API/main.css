@@ -1,0 +1,28 @@
+.btn{
+    border-radius: 150px;
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+.btn:hover{
+    background-color: orange;
+    color: black;
+    border: 1px solid black;
+}
+
+body{
+    background-color: orange;
+    background-image: linear-gradient(to right bottom, rgba(212, 133, 22, 0.7), rgb(239, 15, 15))
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin: 15%;
+
+}
+
+#seasonRoundForm{
+    text-align: center;
+}
